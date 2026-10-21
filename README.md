@@ -55,3 +55,9 @@ verification of their redistribution and privacy conditions.
 https://eu-vigil.com/enquetes/covid-19/
 
 Contact : contact@eu-vigil.com
+
+## Licence / License
+- Code (`code/`, `scripts/`) : Apache License 2.0 — voir `LICENSE`.
+- Données (`data/`, `reference/`) : Creative Commons Attribution 4.0 (CC BY 4.0). Réutilisation libre en citant la source : « EU-Vigil, données EudraVigilance ».
+
+Copyright © 2026 EU-Vigil.
