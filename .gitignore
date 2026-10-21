@@ -1,0 +1,5 @@
+*.bak*
+*.env
+*.sqlite
+*.db
+__pycache__/

@@ -1,0 +1,18 @@
+{
+  "project": "EU-VIGIL COVID-19 pharmacovigilance",
+  "reference_reports": 13483992,
+  "covid_reports": 2322888,
+  "vaccine_brands": 9,
+  "vaccine_formulations": 22,
+  "statistical_pairs": 81682,
+  "calculated_pairs": 80776,
+  "non_estimable_pairs": 906,
+  "methods": [
+    "ROR",
+    "PRR",
+    "BCPNN",
+    "GPS"
+  ],
+  "comparison": "Vaccine reports versus all other EU-VIGIL reports",
+  "scope": "Global, brand and formulation levels"
+}
